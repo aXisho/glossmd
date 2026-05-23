@@ -1,0 +1,15 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.sw?
+*~
+.vscode/
+.idea/
+
+# Local assistant state
+.claude/settings.local.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
